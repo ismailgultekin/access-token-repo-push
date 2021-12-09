@@ -1,5 +1,6 @@
 # access-token-repo-push
 Github personel access token hatası çözümü
+https://ismailgultekin.com/github-push-personal-access-token-hata-cozumu
 
 <html>
     <head>
@@ -7,7 +8,7 @@ Github personel access token hatası çözümü
     </head>
     <body>
         <h1>Github personel access token hatası çözümü</h1>
-        <p> git clone https://github.com/ismailgultekin/github-new-access-token-repo-push.git <br></p>
+        <p> git clone https://github.com/ismailgultekin/access-token-repo-push.git <br></p>
     <p>Terminalden komutlarımızı girelim:</p>
     <ul>
         <li>git status</li>
